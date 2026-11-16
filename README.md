@@ -6,8 +6,7 @@ Olá, sou Maria Clara Leite Dantas  👋
 *Conhecimento em digitalização de documentos.
 
 *Ministrei um minicurso sobre Git e GitHub durante a TechWeek, evento organizado por estudantes para a disciplina de ACEX do curso de 
-
-*Bacharelado em Ciência da Computação (BCC), em parceria com minha colega de turma, Mylenna Sales.
+Bacharelado em Ciência da Computação (BCC), em parceria com minha colega de turma, Mylenna Sales.
 
 *Ministrei uma oficina na SBRC+ 2026 sobre Cultura Maker: Criar e Fabricar com as Próprias Mãos.
 
