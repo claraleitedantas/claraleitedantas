@@ -2,7 +2,8 @@ Olá, sou Maria Clara Leite Dantas  👋
 
 
 *Interesse em aprender e desenvolver novas competências, com disposição para adquirir novos conhecimentos.
-Conhecimento em digitalização de documentos.
+
+*Conhecimento em digitalização de documentos.
 
 *Ministrei um minicurso sobre Git e GitHub durante a TechWeek, evento organizado por estudantes para a disciplina de ACEX do curso de 
 
